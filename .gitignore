@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+test.db
+signal.db
+*.db
+*.sqlite
+*.sqlite3
+rewrite.py
+rewrite_git_history.sh
